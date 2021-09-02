@@ -1,0 +1,25 @@
+{
+  "name": "fullcalendarbug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jquery": "~3.5.6",
+    "file-loader": "~6.2.0",
+    "ts-loader": "^4.0.1",
+    "typescript": "~4.3.5",
+    "webpack": "^4.46.0",
+    "webpack-cli": "4.8.0"
+  },
+  "dependencies": {
+    "fullcalendar": "3.10.2",
+    "jquery": "~3.6.0",
+    "moment": "^2.29.1"
+  }
+}
