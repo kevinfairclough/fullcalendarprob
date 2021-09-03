@@ -6,6 +6,7 @@ Problem with fullcalendar 3.10.2 and webpack consuming
 
 launch index.html from dist folder
 
+### Uncaught TypeError: $(...).fullCalendar is not a function - in console
 # Notes
 
 - Changing back to 3.10.1 works fine.
